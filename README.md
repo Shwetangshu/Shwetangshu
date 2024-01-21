@@ -28,8 +28,8 @@
 | *Machine Learning* | *Deep Learning* | *Data Science* |
 | :---: | :---: | :---: |
 
-| *Python* | *Java* | *C* | *C++* | *Git* | *GitHub* | *TensorFlow* | *OpenCV* |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| *Python* | *C* | *C++* | *Git* | *GitHub* | *TensorFlow* | *OpenCV* |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 | *SQL* | *Data Version Control* | *Statistics* | *Data Analysis* | *Neural Networks* | *Web Scraping* |
 | :---: | :---: | :---: | :---: | :---: | :---: |
