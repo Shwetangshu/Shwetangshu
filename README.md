@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shwetangshu Biswas</h1>
+<!-- Profile Visitors Count -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /></p> edit this for shwetangshu biswas having github profile <h1 align="center">Hi 👋, I'm Shwetangshu Biswas</h1>
 <h3 align="center">Electrical Engineer with a passion for coding and AI/ML. Open Source enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetangshu&label=Profile%20views&color=0e75b6&style=flat" alt="shwetangshu" /> </p>
@@ -41,9 +42,10 @@
 | :---: | :---: | :---: | :---: |
 <br>
 
+<div>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetangshu&theme=prussian&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shwetangshu&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetangshu&show_icons=true&locale=en&layout=compact" alt="shwetangshu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetangshu&show_icons=true&locale=en" alt="shwetangshu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetangshu&" alt="shwetangshu" /></p>
+<!-- Readme Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetangshu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
