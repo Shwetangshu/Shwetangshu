@@ -23,7 +23,7 @@
 <a href="https://instagram.com/shwetangshub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shwetangshub" height="30" width="40" /></a>
 <a href="https://discord.gg/#1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1121" height="30" width="40" /></a>
 </p>
-<h3 align="center">Skills & Tech Stack</h3>
+<h3 align=left">Skills & Tech Stack</h3>
 
 | *Machine Learning* | *Deep Learning* | *Data Science* |
 | :---: | :---: | :---: |
