@@ -1,5 +1,4 @@
-<!-- Profile Visitors Count -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /></p> edit this for shwetangshu biswas having github profile <h1 align="center">Hi 👋, I'm Shwetangshu Biswas</h1>
+<h1 align="center">Hi 👋, I'm Shwetangshu Biswas</h1>
 <h3 align="center">Electrical Engineer with a passion for coding and AI/ML. Open Source enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetangshu&label=Profile%20views&color=0e75b6&style=flat" alt="shwetangshu" /> </p>
