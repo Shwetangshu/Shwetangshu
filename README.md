@@ -23,7 +23,7 @@
 <a href="https://instagram.com/shwetangshub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shwetangshub" height="30" width="40" /></a>
 <a href="https://discord.gg/#1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1121" height="30" width="40" /></a>
 </p>
-<h3 align="left">Skills & Tech Stack</h3>
+<h3 align="center">Skills & Tech Stack</h3>
 
 | *Machine Learning* | *Deep Learning* | *Data Science* |
 | :---: | :---: | :---: |
@@ -41,10 +41,10 @@
 | :---: | :---: | :---: | :---: |
 <br>
 
-<div>
+<div align="center">
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetangshu&theme=prussian&hide_border=false"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shwetangshu&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
 </div>
 
 <!-- Readme Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetangshu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetangshu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" align="center"/>
