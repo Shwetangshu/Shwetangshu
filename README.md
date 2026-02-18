@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetangshu&label=Profile%20views&color=0e75b6&style=flat" alt="shwetangshu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetangshu" alt="shwetangshu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shwetangshub" target="blank"><img src="https://img.shields.io/twitter/follow/shwetangshub?logo=twitter&style=for-the-badge" alt="shwetangshub" /></a> </p>
 
 - 🔭 I’m interested in **Electrical Engineering and AI/ML.**
