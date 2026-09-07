@@ -46,40 +46,47 @@
 <h1 align="center">Hi 👋, I'm Shwetangshu Biswas</h1>
 <h3 align="center">Robotics Researcher | Autonomous Systems, Motion Planning & State Estimation</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shwetangshu&label=Profile%20views&color=0e75b6&style=flat" alt="shwetangshu" /> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shwetangshu-biswas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/shwetangshub" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:shwetangshu.biswas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shwetangshu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
 
-- 🔬 I’m currently researching **autonomous navigation, online path planning, and bio-inspired robotic locomotion.**
-- 🧭 Core focus areas include **multi-robot coordination, subterranean exploration, and non-linear state estimation (EKF).**
-- 🛠️ Actively building with **ROS 2, C++, Python, and Gazebo simulation frameworks.**
-- 💬 Ask me about **robot kinematics, coverage algorithms, sensor fusion, and autonomous mobile robotics.**
-- 📫 Reach me at **[shwetangshu.biswas@gmail.com](mailto:shwetangshu.biswas@gmail.com)** or via **[LinkedIn](https://www.linkedin.com/in/shwetangshu-biswas/)**.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/shwetangshu-biswas/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwetangshu biswas" height="30" width="40" /></a>
-  <a href="https://twitter.com/shwetangshub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shwetangshub" height="30" width="40" /></a>
-</p>
+### 🔬 Research & Focus
 
-### Research Domains & Technical Stack
+- 🧭 **Core Domains:** Autonomous navigation, online coverage path planning, and bio-inspired aquatic locomotion.
+- ⚙️ **Specializations:** Subterranean exploration, multi-robot coordination, and non-linear state estimation (EKF).
+- 🛠️ **Systems & Frameworks:** ROS 2, Gazebo, C++, Python, and Docker containerized development.
+- 💬 **Ask me about:** Motion planning algorithms, robot kinematics, SLAM pipelines, and mobile robotics.
 
-| Category | Technologies & Domains |
-| :--- | :--- |
-| **Robotics & Simulation** | ROS 2, Gazebo, Motion Planning, Sensor Fusion (EKF), Kinematics & Dynamics |
-| **Languages & Systems** | C++, Python, C, Linux / Bash, Docker, Git / GitHub |
-| **Perception & AI** | OpenCV, Point Cloud Processing, Machine Learning, Deep Learning |
-| **Scientific Computing** | NumPy, SciPy, Matplotlib, LaTeX, Data Analysis |
+---
 
-<br>
+### 🛠️ Technical Stack
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetangshu&theme=prussian&hide_border=false"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shwetangshu&show_icons=true&theme=prussian&hide_border=false&include_all_commits=true"/>
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Robotics & Simulation** | `ROS 2` `Gazebo` `Motion Planning` `EKF State Estimation` `Kinematics` |
+| **Languages & Core** | `C++` `Python` `C` `Linux / Bash` `Git` `Docker` |
+| **Perception & AI** | `OpenCV` `PyTorch` `Point Clouds` `Deep Learning` `Machine Learning` |
+| **Math & Analysis** | `NumPy` `SciPy` `Matplotlib` `LaTeX` |
+
 </div>
 
-<br>
+---
+
+### ⚡ GitHub Activity
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetangshu&layout=compact&theme=prussian&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetangshu&theme=prussian&hide_border=false" alt="GitHub Streak" />
 </div>
