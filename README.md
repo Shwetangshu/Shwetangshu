@@ -74,12 +74,12 @@
 <br>
 
 <div align="center">
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetangshu&theme=prussian&hide_border=false"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shwetangshu&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetangshu&theme=prussian&hide_border=false"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shwetangshu&show_icons=true&theme=prussian&hide_border=false&include_all_commits=true"/>
 </div>
 
 <br>
 
-
-<!-- Readme Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetangshu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" align="center"/>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetangshu&layout=compact&theme=prussian&hide_border=false"/>
+</div>
